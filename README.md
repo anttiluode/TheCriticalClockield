@@ -1,5 +1,8 @@
 # The Critical Clockfield
 
+EDIT: A new sim: https://anttiluode.github.io/TheCriticalClockield/ 
+Seems to have magnetism, seperation of stuff. Particle accelerator like sprays and more. 
+
 ## UV Regulation, Directional Thaw, and Self-Organized Criticality in a Proper-Time Scalar Field Theory
 
 **Antti Luode** — PerceptionLab, Helsinki, Finland  
